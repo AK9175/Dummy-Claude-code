@@ -1,0 +1,1 @@
+Create a file with name "receipes.txt", and add 3 chicken receipe names in "receipes.txt"
